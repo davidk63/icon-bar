@@ -1,0 +1,23 @@
+.icon_styles {
+    display: flex;
+    flex-direction: row;
+    background-color: darkgray;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+a {
+    padding: 20px;
+    text-align: center;
+    color: white;
+    width: 20%;
+}
+
+.home_icon {
+    background-color: green;
+}
+
+a:hover {
+    background-color: black;
+}
